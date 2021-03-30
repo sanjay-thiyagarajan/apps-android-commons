@@ -55,7 +55,8 @@
                             android:id="@+id/answer"
                             layout="@layout/answer_layout"
                             android:layout_marginTop="@dimen/activity_margin_vertical"
-                            android:layout_marginBottom="@dimen/activity_margin_vertical"
+                            android:layout_marginBottom="12dp"
+                            android:layout_marginLeft="25dp"
                             android:layout_height="wrap_content"
                             android:layout_width="wrap_content" />
 
